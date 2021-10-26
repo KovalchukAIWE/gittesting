@@ -1,0 +1,1 @@
+const newApp = 'Wow, new app';
