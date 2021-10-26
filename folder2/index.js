@@ -1,0 +1,1 @@
+const someStr ='halo world';
